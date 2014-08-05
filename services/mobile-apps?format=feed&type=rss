@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mobile Apps</title>
+		<description></description>
+		<link>http://www.verticalpenguin.com/services/mobile-apps</link>
+		<lastBuildDate>Tue, 05 Aug 2014 04:07:17 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Android Apps</title>
+			<link>http://www.verticalpenguin.com/services/mobile-apps/android</link>
+			<guid>http://www.verticalpenguin.com/services/mobile-apps/android</guid>
+			<description><![CDATA[<p>I have just one active Android app at the moment, with more being published soon.  I prefer iPhone apps, but I can help you with Android if you like.  Here is a link to my one and only Android app project I was involved in:<br /><br /><a href="https://market.android.com/details?id=com.wearehathway.autorespondsms&amp;feature=search_result" target="_blank">TextBack</a></p>]]></description>
+			<author>chris@shireman.net (Christopher Shireman)</author>
+			<category>Mobile Apps</category>
+			<pubDate>Thu, 24 May 2012 22:51:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>iPhone Apps</title>
+			<link>http://www.verticalpenguin.com/services/mobile-apps/iphone</link>
+			<guid>http://www.verticalpenguin.com/services/mobile-apps/iphone</guid>
+			<description><![CDATA[<p>I have been making iPhone apps since September of 2009 and would love to help make your app idea a reality.  Here is a list of the most recent apps I have been involved with that are currently in the App Store:</p>
+<ul>
+<li><a href="http://itunes.apple.com/us/app/that-reminds-me/id366254426?ls=1&amp;mt=8" target="_blank">That Reminds Me</a> </li>
+<li><a href="http://itunes.apple.com/us/app/moodstocks/id430993046?ls=1&amp;mt=8" target="_blank">MoodStocks</a> </li>
+<li><a href="http://itunes.apple.com/us/app/travelgenesis/id451872440?ls=1&amp;mt=8" target="_blank">TravelGenesis</a></li>
+<li><a href="http://itunes.apple.com/us/app/pushweather/id452558880?ls=1&amp;mt=8" target="_blank">PushWeather</a></li>
+<li><a href="http://itunes.apple.com/us/app/happy-family/id413515234?ls=1&amp;mt=8" target="_blank">HappyFamily</a> </li>
+<li><a href="http://itunes.apple.com/us/app/donationapp/id492358634?ls=1&amp;mt=8" target="_blank">Charity Deductions</a></li>
+<li><a href="http://itunes.apple.com/us/app/digilock/id495074212?ls=1&amp;mt=8" target="_blank">Digilock</a></li>
+<li><a href="http://itunes.apple.com/us/app/tip-score/id504334920?ls=1&amp;mt=8">TipScore</a></li>
+</ul>
+<p> </p>]]></description>
+			<author>chris@shireman.net (Christopher Shireman)</author>
+			<category>Mobile Apps</category>
+			<pubDate>Thu, 24 May 2012 22:39:45 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

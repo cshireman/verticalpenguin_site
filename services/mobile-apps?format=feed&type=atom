@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Mobile Apps</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.verticalpenguin.com"/>
+	<id>http://www.verticalpenguin.com/services/mobile-apps</id>
+	<updated>2014-08-05T04:07:17Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.verticalpenguin.com/services/mobile-apps?format=feed&amp;type=atom" />
+	<entry>
+		<title>Android Apps</title>
+		<link rel="alternate" type="text/html" href="http://www.verticalpenguin.com/services/mobile-apps/android"/>
+		<published>2012-05-24T22:51:43Z</published>
+		<updated>2012-05-24T22:51:43Z</updated>
+		<id>http://www.verticalpenguin.com/services/mobile-apps/android</id>
+		<author>
+			<name>Christopher Shireman</name>
+		<email>chris@shireman.net</email>
+		</author>
+		<summary type="html">&lt;p&gt;I have just one active Android app at the moment, with more being published soon.  I prefer iPhone apps, but I can help you with Android if you like.  Here is a link to my one and only Android app project I was involved in:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://market.android.com/details?id=com.wearehathway.autorespondsms&amp;amp;feature=search_result&quot; target=&quot;_blank&quot;&gt;TextBack&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;I have just one active Android app at the moment, with more being published soon.  I prefer iPhone apps, but I can help you with Android if you like.  Here is a link to my one and only Android app project I was involved in:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://market.android.com/details?id=com.wearehathway.autorespondsms&amp;amp;feature=search_result&quot; target=&quot;_blank&quot;&gt;TextBack&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>iPhone Apps</title>
+		<link rel="alternate" type="text/html" href="http://www.verticalpenguin.com/services/mobile-apps/iphone"/>
+		<published>2012-05-24T22:39:45Z</published>
+		<updated>2012-05-24T22:39:45Z</updated>
+		<id>http://www.verticalpenguin.com/services/mobile-apps/iphone</id>
+		<author>
+			<name>Christopher Shireman</name>
+		<email>chris@shireman.net</email>
+		</author>
+		<summary type="html">&lt;p&gt;I have been making iPhone apps since September of 2009 and would love to help make your app idea a reality.  Here is a list of the most recent apps I have been involved with that are currently in the App Store:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/that-reminds-me/id366254426?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;That Reminds Me&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/moodstocks/id430993046?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;MoodStocks&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/travelgenesis/id451872440?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;TravelGenesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/pushweather/id452558880?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;PushWeather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/happy-family/id413515234?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;HappyFamily&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/donationapp/id492358634?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;Charity Deductions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/digilock/id495074212?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;Digilock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/tip-score/id504334920?ls=1&amp;amp;mt=8&quot;&gt;TipScore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;I have been making iPhone apps since September of 2009 and would love to help make your app idea a reality.  Here is a list of the most recent apps I have been involved with that are currently in the App Store:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/that-reminds-me/id366254426?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;That Reminds Me&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/moodstocks/id430993046?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;MoodStocks&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/travelgenesis/id451872440?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;TravelGenesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/pushweather/id452558880?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;PushWeather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/happy-family/id413515234?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;HappyFamily&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/donationapp/id492358634?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;Charity Deductions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/digilock/id495074212?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;Digilock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/tip-score/id504334920?ls=1&amp;amp;mt=8&quot;&gt;TipScore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+</feed>
